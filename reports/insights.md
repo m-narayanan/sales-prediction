@@ -4,7 +4,7 @@
 ---
 
 ## Model Performance Summary  
-![Model Comparison](../reports/figures/cv_scores.png)  
+![Model Comparison](../reports/figures/model_r2_scores.png)  
 
 | Model            | R² Score | MAE ($) | RMSE ($) |  
 |-------------------|----------|---------|----------|  
@@ -17,7 +17,7 @@
 ---
 
 ## Key Drivers of Purchase Decisions  
-![Feature Importance](../reports/figures/shap_summary.png)  
+![Feature Importance](../reports/figures/shap_feature_importance.png)  
 
 1. **Net Worth** (42% Impact)  
    - Primary predictor of purchase amount  
@@ -45,7 +45,7 @@
 ---
 
 ## Geographic Insights  
-![Country Analysis](../reports/figures/geo_analysis.png)  
+![Country Analysis](../reports/figures/geo_purchase_patterns.png)  
 
 **Top 5 Markets**:  
 1. UAE ($68,200 avg)  
