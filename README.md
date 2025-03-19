@@ -17,5 +17,19 @@ This project predicts car purchase amounts using demographic and financial data 
 ## Setup
 1. **Clone Repository**:  
    ```bash
-   git clone https://github.com/yourusername/sales-prediction.git
+   git clone https://github.com/m-narayanan/sales-prediction.git
    cd sales-prediction
+   pip install -r requirements.txt
+
+2. **Usage**
+  - Place raw data in data/ directory
+
+  - Run notebooks in order:
+```bash
+   1_data_analysis.ipynb
+
+   2_preprocessing.ipynb
+
+   3_model_training.ipynb
+```
+  - Find saved models in models/
