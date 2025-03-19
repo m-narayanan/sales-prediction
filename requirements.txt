@@ -1,0 +1,8 @@
+pandas==2.2.3
+numpy==2.2.3
+scikit-learn==1.6.1
+xgboost==3.0.0  # or the latest full version
+matplotlib  # Check the latest version on PyPI
+seaborn  # Check the latest version on PyPI
+notebook  # For Jupyter Notebook
+shap  # Check the latest version on PyPI
