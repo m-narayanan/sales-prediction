@@ -97,4 +97,4 @@
 **Reproducibility Note**:  
 - All visualizations generated from `3_model_training.ipynb`  
 - Raw data: `data/car_purchasing.csv`  
-- Model: `models/best_model.pkl`  
+- Model: `models/best_xgboost_model.pkl`  
